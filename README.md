@@ -96,4 +96,4 @@ Manual tests
 
 ## CSV Export/Import
 - From the Admin Panel use `Export CSV` / `Import CSV` to export/import `users_export.csv` and `bookings_export.csv`.
-- Note: Event definitions (sections/areas) are editable via Admin Panel but are not yet exported/imported as a dedicated events CSV. If you require event import/export, I can add CSV support for event definitions.
+
